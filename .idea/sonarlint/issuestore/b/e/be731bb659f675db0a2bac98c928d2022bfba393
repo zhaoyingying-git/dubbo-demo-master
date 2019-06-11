@@ -1,0 +1,19 @@
+
+jsquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(ç”‰Ù8²À©è¦-
+isquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(ØÊ¯18²À©è¦-
+osquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(ÁÝÿÿÿÿÿ8Ø‡©è¦-
+jsquid:CommentedOutCodeLineï"<This block of commented-out lines of code should be removed.(»¹Ãô8‚Ù§è¦-
+osquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(¤Žè—üÿÿÿÿ8‚Ù§è¦-
+Ksquid:S1172í",Remove this unused method parameter "index".(¿îºì8‚Ù§è¦-
+jsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(¿³ÀÕ8ªí¨è¦-
+jsquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(¿³ÀÕ8‚Ù§è¦-
+jsquid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(²ª¸8ê¢©è¦-
+ksquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÍØîþùÿÿÿÿ8‚Ù§è¦-
+dsquid:S2259"EA "NullPointerException" could be thrown; "sortStr" is nullable here.(±‰£8‚Ù§è¦-
+fsquid:S00112°"FDefine and throw a dedicated exception instead of using a generic one.(±¼‘š8‚Ù§è¦-
+osquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(¡ëÉêùÿÿÿÿ8‚Ù§è¦-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÕŽ¸ûÿÿÿÿ8‚Ù§è¦-
+jsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(»¹Ãô8‚Ù§è¦-
+osquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(‰Öï…ÿÿÿÿÿ8‚Ù§è¦-
+dsquid:S2259í"EA "NullPointerException" could be thrown; "sortStr" is nullable here.(¤ìÖß8‚Ù§è¦-
+]squid:S1118(":Add a private constructor to hide the implicit public one.(¤–Éôýÿÿÿÿ8‚Ù§è¦-

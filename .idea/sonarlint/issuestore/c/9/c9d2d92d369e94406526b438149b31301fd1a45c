@@ -1,0 +1,25 @@
+
+Vsquid:S1197a"8Move the array designator from the variable to the type.(ŽÕ§†8Ò–‡ª¢-
+Esquid:S1659¡"!Declare "low" on a separate line.(…ïš†ùÿÿÿÿ8Ò–‡ª¢-
+Vsquid:S11977"8Move the array designator from the variable to the type.(±ûòý8Ò–‡ª¢-
+nsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(ÛÇ“¸üÿÿÿÿ8§¢ñÀ¤-
+|squid:S1488I"^Immediately return this expression instead of assigning it to the temporary variable "abyte0".(±ûòý8Ò–‡ª¢-
+[squid:S11978"8Move the array designator from the variable to the type.(—Ñ†Äúÿÿÿÿ8í¤ðÀ¤-
+isquid:S2147Õ"ECombine this catch with the one at line 210, which has the same body.(ÐÐ¹óúÿÿÿÿ8Ò–‡ª¢-
+}squid:S3008!"ZRename this field "default_charset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÞëùÿÿÿÿ8Ò–‡ª¢-
+nsquid:CommentedOutCodeLineW"<This block of commented-out lines of code should be removed.(Ä¼‚·ùÿÿÿÿ8ÄÒñÀ¤-
+nsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(Á£¼Ÿüÿÿÿÿ8§¢ñÀ¤-
+[squid:S1197b"8Move the array designator from the variable to the type.(Ç•—òøÿÿÿÿ8Ò–‡ª¢-
+jsquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(Óá—†8ÿ³óÀ¤-
+Csquid:S1659Ÿ"Declare "i" on a separate line.(ëŠƒóùÿÿÿÿ8Ò–‡ª¢-
+nsquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(çêÈðýÿÿÿÿ8§ËòÀ¤-
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–µ®˜8»ãòÀ¤-
+Vsquid:S1197I"8Move the array designator from the variable to the type.(±ûòý8Ò–‡ª¢-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ñ»Êþÿÿÿÿÿ8‚ïôÀ¤-
+Esquid:S1659¡"!Declare "tmp" on a separate line.(…ïš†ùÿÿÿÿ8Ò–‡ª¢-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÕŽ¸ûÿÿÿÿ8Ò–‡ª¢-
+jsquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(œ³·8»ãòÀ¤-
+jsquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(èÜä8ú…óÀ¤-
+[squid:S1197="8Move the array designator from the variable to the type.(êô¶üÿÿÿÿ8Ò–‡ª¢-
+jsquid:CommentedOutCodeLineÖ"<This block of commented-out lines of code should be removed.(Óá—†8ÿ³óÀ¤-
+msquid:S00100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¬—¹8Ò–‡ª¢-

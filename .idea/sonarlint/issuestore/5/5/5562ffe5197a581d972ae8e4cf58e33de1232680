@@ -1,0 +1,17 @@
+
+Bsquid:S1168"&Return an empty array instead of null.(¥¹ï8ë¹¥›¦-
+Jsquid:S1125")Remove the literal "false" boolean value.(÷Ğƒüÿÿÿÿ8ë¹¥›¦-
+ssquid:S3981"WThe length of "valueData" is always ">=0", so update this test to either "==0" or ">0".(Ğå¬î8ë¹¥›¦-
+Jsquid:S1125")Remove the literal "false" boolean value.(›æÚ¹ıÿÿÿÿ8ë¹¥›¦-
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(Šª¢Ù8ë¹¥›¦-
+lsquid:UselessImportCheck"CRemove this unused import 'org.springframework.stereotype.Service'.(¼º¡Ú8‡‰Õ›¦-
+?squid:S1148"#Use a logger to log this exception.(Ç’Çê8ë¹¥›¦-
+?squid:S1148"#Use a logger to log this exception.(Ç’Çê8ë¹¥›¦-
+?squid:S1148"#Use a logger to log this exception.(Ç’Çê8ë¹¥›¦-
+xsquid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "data".(ÙÓ¨±8ë¹¥›¦-
+Bsquid:S1168"&Return an empty array instead of null.(¥¹ï8ë¹¥›¦-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ë¹¥›¦-
+Jsquid:S1125")Remove the literal "false" boolean value.(÷Ğƒüÿÿÿÿ8ë¹¥›¦-
+Jsquid:S1125")Remove the literal "false" boolean value.(÷Ğƒüÿÿÿÿ8ë¹¥›¦-
+Wsquid:S2696"6Make the enclosing method "static" or remove this set.(ÛåÅïıÿÿÿÿ8ë¹¥›¦-
+|squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÕ¸ûÿÿÿÿ8ë¹¥›¦-

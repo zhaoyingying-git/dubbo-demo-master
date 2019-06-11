@@ -1,0 +1,19 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(êÜª8Áë·ä-
+Usquid:S1854"7Remove this useless assignment to local variable "sum".(È›ì¢8Šå¯ä-
+Fsquid:S1481"(Remove this unused "sum" local variable.(Ï»±8Šå¯ä-
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£ô¡¼8ÅŒíà-
+`squid:S2184"BCast one of the operands of this division operation to a "double".(È›ì¢8Šå¯ä-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ï¯×şüÿÿÿÿ8Šå¯ä-
+asquid:S2166"CRename this class to remove "Exception" or correct its inheritance.(£ô¡¼8ÅŒíà-
+asquid:S3518"CMake sure this expression can't be zero before doing this division.(È›ì¢8 ¬¹ä-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÕ¸ûÿÿÿÿ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(«ó…³ûÿÿÿÿ8Áë·ä-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8Šå¯ä-
+^squid:S2184"@Cast one of the operands of this integer division to a "double".(È›ì¢8Šå¯ä-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(£Èí¡8Áë·ä-

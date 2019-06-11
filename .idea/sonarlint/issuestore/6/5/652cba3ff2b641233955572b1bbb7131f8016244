@@ -1,0 +1,6 @@
+
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(éÄÒ
+jsquid:S3824n"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(Ã™–Ãûÿÿÿÿ
+~squid:S00115/"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ƒœ‚‘øÿÿÿÿ8÷ç¤à±-
+]squid:S4065q"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(›Üé·
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÕ¸ûÿÿÿÿ

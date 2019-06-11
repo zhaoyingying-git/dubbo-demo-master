@@ -1,0 +1,5 @@
+
+Wsquid:UselessImportCheck",Remove this unused import 'lombok.ToString'.(¹ÂÄÓ8Êª‚¶¦-
+Usquid:UselessImportCheck"*Remove this unused import 'lombok.Getter'.(ùÒµÙ8Êª‚¶¦-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÕŽ¸ûÿÿÿÿ
+Usquid:UselessImportCheck"*Remove this unused import 'lombok.Setter'.(ó¸çµ8Êª‚¶¦-

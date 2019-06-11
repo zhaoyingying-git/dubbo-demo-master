@@ -1,0 +1,19 @@
+
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ş¬Ì8Éßª†-
+gsquid:UselessImportCheck"7Remove this unused import 'org.aspectj.lang.JoinPoint'.(¾Öùúÿÿÿÿ8Éßª†-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÕ¸ûÿÿÿÿ
+lsquid:UselessImportCheck"ARemove this unused import 'org.aspectj.lang.ProceedingJoinPoint'.(ç—Âû8Éßª†-
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯ÅÔÉ8Éßª†-
+U
+squid:S106'"9Replace this use of System.out or System.err by a logger.(–Ù†*8Éßª†-
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(úÊéëùÿÿÿÿ8Éßª†-
+usquid:UselessImportCheck"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ8Éßª†-
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(”ƒèÄ8Éßª†-
+Fsquid:S1068"(Remove this unused "name" private field.(Ë¥¼8Éßª†-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıïûá8Éßª†-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(é°¥â8Éßª†-

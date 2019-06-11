@@ -1,0 +1,13 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã‰Ò»ÿÿÿÿÿ8‹ÀÉü¡-
+Tsquid:S3878"8Remove this array creation and simply pass the elements.(¸¨Îî8‹ÀÉü¡-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.( ¿ğ—8‹ÀÉü¡-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Î„÷ùÿÿÿÿ8‹ÀÉü¡-
+|squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÕ¸ûÿÿÿÿ8‹ÀÉü¡-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ğ„ÁØ8‹ÀÉü¡-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ô¹í²8Æ´Ôü¡-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°¦“’8‹ÀÉü¡-
